@@ -1,0 +1,2 @@
+127.0.0.1 - - [10/Feb/2017:21:01:58 -0500] "GET / HTTP/1.1" 200 834 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36"
+127.0.0.1 - - [10/Feb/2017:21:01:59 -0500] "GET /favicon.ico HTTP/1.1" 200 0 "http://price-checker.dev/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36"
